@@ -11,17 +11,17 @@ ART            = os.path.join(PATH, 'resources', 'art')
 ### User Edit Variables #################################
 #########################################################
 ADDON_ID       = xbmcaddon.Addon().getAddonInfo('id')
-ADDONTITLE     = '[B][COLOR dodgerblue]Aftermath[/COLOR][/B] Wizard'
-BUILDERNAME    = 'Aftermath'
+ADDONTITLE     = '[B][COLOR dodgerblue]CM[/COLOR][/B] Wizard'
+BUILDERNAME    = 'CM'
 EXCLUDES       = [ADDON_ID, 'repository.aftermath']
 # Enable/Disable the text file caching with 'Yes' or 'No' and age being how often it rechecks in minutes
 CACHETEXT      = 'Yes'
 CACHEAGE       = 30
 # Text File with build info in it.
-BUILDFILE      = 'http://'
+BUILDFILE      = 'https://cmbuild.000webhostapp.com/CMBuild/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
-UPDATECHECK    = 0
+UPDATECHECK    = 2
 # Text File with apk info in it.  Leave as 'http://' to ignore
 APKFILE        = 'http://'
 # Text File with Youtube Videos urls.  Leave as 'http://' to ignore
