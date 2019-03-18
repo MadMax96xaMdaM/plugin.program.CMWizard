@@ -55,9 +55,9 @@ ICONLOGIN      = 'https://cmbuild.000webhostapp.com/CMBuild/Images/keeplogin.png
 ICONCONTACT    = 'https://cmbuild.000webhostapp.com/CMBuild/Images/information.png'
 ICONSETTINGS   = 'https://cmbuild.000webhostapp.com/CMBuild/Images/settings.png'
 # Hide the section seperators 'Yes' or 'No'
-HIDESPACERS    = 'Yes'
+HIDESPACERS    = 'No'
 # Character used in seperator
-SPACER         = '='
+SPACER         = ' '
 
 # You can edit these however you want, just make sure that you have a %s in each of the
 # THEME's so it grabs the text from the menu item
