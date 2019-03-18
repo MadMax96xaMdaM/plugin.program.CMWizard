@@ -55,7 +55,7 @@ ICONLOGIN      = 'https://cmbuild.000webhostapp.com/CMBuild/Images/keeplogin.png
 ICONCONTACT    = 'https://cmbuild.000webhostapp.com/CMBuild/Images/information.png'
 ICONSETTINGS   = 'https://cmbuild.000webhostapp.com/CMBuild/Images/settings.png'
 # Hide the section seperators 'Yes' or 'No'
-HIDESPACERS    = 'No'
+HIDESPACERS    = 'Yes'
 # Character used in seperator
 SPACER         = '='
 
