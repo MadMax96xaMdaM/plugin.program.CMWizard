@@ -42,18 +42,18 @@ ADVANCEDFILE   = 'http://'
 # Example:  ICONMAINT     = os.path.join(ART, 'mainticon.png')
 #           ICONSETTINGS  = 'http://aftermathwizard.net/repo/wizard/settings.png'
 # Leave as http:// for default icon
-ICONBUILDS     = os.path.join(ART, 'builds.png')
-ICONMAINT      = os.path.join(ART, 'maintenance.png')
-ICONSPEED      = os.path.join(ART, 'speed.png')
-ICONAPK        = os.path.join(ART, 'apkinstaller.png')
-ICONADDONS     = os.path.join(ART, 'addoninstaller.png')
-ICONYOUTUBE    = os.path.join(ART, 'youtube.png')
-ICONSAVE       = os.path.join(ART, 'savedata.png')
-ICONTRAKT      = os.path.join(ART, 'keeptrakt.png')
-ICONREAL       = os.path.join(ART, 'keepdebrid.png')
-ICONLOGIN      = os.path.join(ART, 'keeplogin.png')
-ICONCONTACT    = os.path.join(ART, 'information.png')
-ICONSETTINGS   = os.path.join(ART, 'settings.png')
+ICONBUILDS     = 'https://cmbuild.000webhostapp.com/CMBuild/builds.png'
+ICONMAINT      = 'https://cmbuild.000webhostapp.com/CMBuild/maintenance.png'
+ICONSPEED      = 'https://cmbuild.000webhostapp.com/CMBuild/speed.png'
+ICONAPK        = 'https://cmbuild.000webhostapp.com/CMBuild/apkinstaller.png'
+ICONADDONS     = 'https://cmbuild.000webhostapp.com/CMBuild/.png'
+ICONYOUTUBE    = 'https://cmbuild.000webhostapp.com/CMBuild/youtube.png'
+ICONSAVE       = 'https://cmbuild.000webhostapp.com/CMBuild/savedata.png'
+ICONTRAKT      = 'https://cmbuild.000webhostapp.com/CMBuild/keeptrakt.png'
+ICONREAL       = 'https://cmbuild.000webhostapp.com/CMBuild/keepdebrid.png'
+ICONLOGIN      = 'https://cmbuild.000webhostapp.com/CMBuild/keeplogin.png'
+ICONCONTACT    = 'https://cmbuild.000webhostapp.com/CMBuild/information.png'
+ICONSETTINGS   = 'https://cmbuild.000webhostapp.com/CMBuild/settings.png'
 # Hide the section seperators 'Yes' or 'No'
 HIDESPACERS    = 'No'
 # Character used in seperator
