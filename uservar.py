@@ -13,7 +13,7 @@ ART            = os.path.join(PATH, 'resources', 'art')
 ADDON_ID       = xbmcaddon.Addon().getAddonInfo('id')
 ADDONTITLE     = '[B][COLOR midnightblue]CM[/COLOR][/B] Wizard'
 BUILDERNAME    = 'CM'
-EXCLUDES       = [ADDON_ID, 'repository.aftermath']
+EXCLUDES       = [ADDON_ID, 'repository.cm']
 # Enable/Disable the text file caching with 'Yes' or 'No' and age being how often it rechecks in minutes
 CACHETEXT      = 'Yes'
 CACHEAGE       = 30
