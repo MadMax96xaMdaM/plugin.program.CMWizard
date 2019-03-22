@@ -89,7 +89,7 @@ CONTACTFANART  = 'http://'
 ###        For Those With No Repo #######################
 #########################################################
 # Enable Auto Update 'Yes' or 'No'
-AUTOUPDATE     = 'Yes'
+AUTOUPDATE     = 'No'
 # Url to wizard version
 WIZARDFILE     = BUILDFILE
 #########################################################
@@ -99,13 +99,13 @@ WIZARDFILE     = BUILDFILE
 ###        Repo If Not Installed ########################
 #########################################################
 # Enable Auto Install 'Yes' or 'No'
-AUTOINSTALL    = 'No'
+AUTOINSTALL    = 'Yes'
 # Addon ID for the repository
-REPOID         = 'repository.aftermath'
+REPOID         = 'repository.cm'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML   = 'https://raw.githubusercontent.com/drinfernoo/repository.aftermath/master/zips/addons.xml'
+REPOADDONXML   = 'https://raw.githubusercontent.com/MadMax96xaMdaM/repository.cm/master/zips/addons.xml'
 # Url to folder zip is located in
-REPOZIPURL     = 'https://raw.githubusercontent.com/drinfernoo/repository.aftermath/master/zips/repository.aftermath/'
+REPOZIPURL     = 'https://raw.githubusercontent.com/MadMax96xaMdaM/repository.cm/master/zips/repository.cm/'
 #########################################################
 
 #########################################################
