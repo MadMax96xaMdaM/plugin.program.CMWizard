@@ -103,9 +103,9 @@ AUTOINSTALL    = 'Yes'
 # Addon ID for the repository
 REPOID         = 'repository.cm'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML   = 'https://raw.githubusercontent.com/MadMax96xaMdaM/repository.cm/master/zips/addons.xml'
+REPOADDONXML   = 'https://raw.githubusercontent.com/MadMax96xaMdaM/repository.cm2/master/zips/addons.xml'
 # Url to folder zip is located in
-REPOZIPURL     = 'https://raw.githubusercontent.com/MadMax96xaMdaM/repository.cm/master/zips/repository.cm/'
+REPOZIPURL     = 'https://raw.githubusercontent.com/MadMax96xaMdaM/repository.cm2/master/zips/repository.cm/'
 #########################################################
 
 #########################################################
