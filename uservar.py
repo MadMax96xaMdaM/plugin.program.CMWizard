@@ -11,7 +11,7 @@ ART            = os.path.join(PATH, 'resources', 'art')
 ### User Edit Variables #################################
 #########################################################
 ADDON_ID       = xbmcaddon.Addon().getAddonInfo('id')
-ADDONTITLE     = '[B][COLOR crimson]CM[/COLOR][/B] Wizard'
+ADDONTITLE     = '[B][COLOR dodgerblue]CM[/COLOR][/B] Wizard'
 BUILDERNAME    = 'CM'
 EXCLUDES       = [ADDON_ID, 'repository.cm']
 # Enable/Disable the text file caching with 'Yes' or 'No' and age being how often it rechecks in minutes
@@ -61,7 +61,7 @@ SPACER         = ' '
 
 # You can edit these however you want, just make sure that you have a %s in each of the
 # THEME's so it grabs the text from the menu item
-COLOR1         = 'crimson'
+COLOR1         = 'dodgerblue'
 COLOR2         = 'white'
 # Primary menu items   / %s is the menu item and is required
 THEME1         = '[COLOR '+COLOR1+'][B][I]([COLOR '+COLOR2+']Aftermath[/COLOR])[/I][/B][/COLOR] [COLOR '+COLOR2+']%s[/COLOR]'
@@ -119,7 +119,7 @@ NOTIFICATION   = 'http://'
 HEADERTYPE     = 'Text'
 # Font size of header
 FONTHEADER     = 'Font14'
-HEADERMESSAGE  = '[B][COLOR crimson]CM[/COLOR][/B] Wizard'
+HEADERMESSAGE  = '[B][COLOR dodgerblue]CM[/COLOR][/B] Wizard'
 # url to image if using Image 424x180
 HEADERIMAGE    = 'http://'
 # Font for Notification Window
